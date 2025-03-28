@@ -1,2 +1,19 @@
-# ml-akinator-game
-A machine-learning-based guessing game inspired by Akinator. The program asks a series of questions to determine what the user is thinking of, learning and improving over time.
+This is a simple Akinator-style game implemented in Python.
+The dataset consists of characters from the Alice in Borderland series.
+
+The game uses a custom dataset with characters.
+You can find it in this repository: AIB_akinator.csv.
+
+Technologies Used:
+
+Python
+Pandas
+CSV Dataset
+
+
+
+
+
+
+
+
